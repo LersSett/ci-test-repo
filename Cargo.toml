@@ -5,3 +5,12 @@ authors = ["Stanislav Lapata <stanislavlapata@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+azul = "*"
+serde = "*"
+serde_json = "*"
+cursive = "*"
+reqwest = "*"
+iron = "*"
+juniper = "*"
+actix-web = "*"
+graphql-parser = "*"
