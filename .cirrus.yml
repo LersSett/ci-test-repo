@@ -1,4 +1,4 @@
-matrix: &matrix
+ignire_matrix: &matrix
   - container:
       image: rust:latest
   - allow_failures: true
